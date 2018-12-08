@@ -8,7 +8,7 @@
 4. input interger a dan b dan deskripsikan a=0, dan b=1.
 5. jika nilai suku satu (b) adalah =1 dan jika nilai suku dua (a) adalah =0.
 6. maka cetak rumus fungsi iteratif menggunakan for intruksikan fungsi fibionici di awali dengan 2 dan di akhiri dengan indexs suku
-7. deskripsikan variable untuk mencetak fuungsi selanjutnya.
+7. deskripsikan variable untuk mencetak fungsi selanjutnya.
 8. cetak suku fibionici menggunakan pemanggilan fungsi itertif.
 
 **Pseudecode**
@@ -55,7 +55,7 @@ return 0;
 }
 ```
 **Hasil**
-![hasil](https://raw.githubusercontent.com/Amirul29/praktikum7/master/soal1.png)
+![hasil](https://github.com/fawwazdzakwan/praktikum7/blob/master/soal1.png)
 
 
 ##Soal2.cpp
@@ -106,7 +106,7 @@ main()
 }
 ```
 **Hasiil**
-![Hasil](https://raw.githubusercontent.com/Amirul29/praktikum7/master/soal2.png)
+![Hasil](https://github.com/fawwazdzakwan/praktikum7/blob/master/soal2.png)
 
 ##soal3.cpp
 **Alur Argoritma**
@@ -121,12 +121,12 @@ main()
 #include
 #include
 void balik(char *k){
-if(*k!=î){
+if(*k!=‚Äù){
 balik(&k[1]);
 cout<
 }
 }main(){
-char *kata=î....î;--> //untuk masukan kata
+char *kata=‚Äù....‚Äù;--> //untuk masukan kata
 balik(kata);
 cout<
 return 0;
@@ -152,4 +152,4 @@ int main()
 }
 ```
 **Hasil**
-![hasil](https://raw.githubusercontent.com/Amirul29/praktikum7/master/soal3.png)
+![hasil](https://github.com/fawwazdzakwan/praktikum7/blob/master/soal3.png)
